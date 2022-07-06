@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "Apple",
+      "price": "100",
+      "type": "fruit",
+      "brand": "fruit",
+      "id": 1
+    },
+    {
+      "name": "Rice",
+      "price": "50",
+      "type": "wheat",
+      "brand": "Raajdhani",
+      "id": 2
+    }
+  ]
+}
